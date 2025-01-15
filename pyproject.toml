@@ -6,6 +6,7 @@ authors = [
     {name = "tct123",email = "42028373+tct123@users.noreply.github.com"}
 ]
 readme = "README.md"
+repository= "https://github.com/Creative-Media-Group/toga-toast"
 requires-python = ">=3.8"
 dependencies = [
 ]
